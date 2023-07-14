@@ -10,6 +10,9 @@
 \usepackage{changepage}
 \usepackage{geometry}
 
+% Background page image.
+\usepackage{eso-pic}
+
 % License
 \usepackage[
 type={CC},
@@ -27,7 +30,7 @@ version={4.0},
 
 
 \newcommand{\normalPage}{% Page composed of only lines
-	\begin{adjustwidth}{0mm}{-10mm}
+	\begin{adjustwidth}{-10mm}{0mm}
 		\centering
 		\par \line(1,0){\linewidth}
 		\insertLines{34}
@@ -36,7 +39,7 @@ version={4.0},
 }
 
 \newcommand{\topNotationPage}[1]{% Page where curiosity are on the top
-	\begin{adjustwidth}{-10mm}{0mm}
+	\begin{adjustwidth}{0mm}{-10mm}
 		\centering
 		\fboxrule=2pt
 		\fbox{
@@ -55,7 +58,7 @@ version={4.0},
 }
 
 \newcommand{\bottomNotationPage}[1]{% Page where curiosity are on the bottom
-	\begin{adjustwidth}{0mm}{-10mm}
+	\begin{adjustwidth}{-10mm}{0mm}
 		\centering
 		\par \line(1,0){\linewidth}
 		\insertLines{26}
@@ -79,29 +82,37 @@ version={4.0},
 	\newgeometry{top=15mm, bottom=15mm}
 	
 		%Notebook cover
-		\begin{center}
+		\begin{adjustwidth}{0mm}{-8.8mm}
+			\begin{center}
 			\vspace*{15mm}
 			\fboxrule=4pt{
-				\fbox{ %                  height                                width
-					\begin{minipage}[l] [\dimexpr 0.150\textwidth \relax] [t] {\dimexpr .460\textwidth \relax}
-						\vspace{5mm}
+				\fbox{ %                                                          height                                width
+					\begin{minipage}[l] [\dimexpr 0.150\textwidth \relax] [t] {\dimexpr .600\textwidth \relax}
+						\vspace{2mm}
 						\centering{\large \textbf{Notebook con curiosità sulle opere dei Musei\\}}
-						\bigskip
+						\vspace{10mm}
 						Alice Balestieri \\
 						Francesco Rombaldoni
 					\end{minipage}
 				}
 			}
 		\end{center}
+	\end{adjustwidth}
+	
+		% Background image
+		\AddToShipoutPictureBG*{\includegraphics[ width=\paperwidth,height=\paperheight]{example-image}}
+		\newpage
 	
 		\normalPage
 		
-		\topNotationPage{ Ciao ciao ciao}
+		\topNotationPage{Qualcosa che non so}
 		
-		\bottomNotationPage{ Ciao ciao ciao}
+		\bottomNotationPage{Qualcosa che non so}
 	
 		\newpage
 		\vspace*{\fill}
 		% Print license shield
 		\doclicenseThis
+		% Background image
+		\AddToShipoutPictureBG*{\includegraphics[ width=\paperwidth,height=\paperheight]{example-image}}
 \end{document}

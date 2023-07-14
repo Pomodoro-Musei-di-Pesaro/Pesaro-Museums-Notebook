@@ -1,0 +1,107 @@
+\documentclass[hidelinks,12pt,a5paper,openright,twoside]{book}
+\usepackage[italian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fourier}
+
+%To loop a command
+\usepackage{forloop}
+
+% Adjust paragraph.
+\usepackage{changepage}
+\usepackage{geometry}
+
+% License
+\usepackage[
+type={CC},
+modifier={by-nc-sa},
+version={4.0},
+]{doclicense}
+
+\newcounter{lines}
+\newcommand{\insertLines}[1]{ % Generate multiple lines from a number
+														% Argument -> number of lines
+	\forLoop{1}{#1}{lines}{
+		 \line(1,0){\linewidth}
+	}
+}
+
+
+\newcommand{\normalPage}{% Page composed of only lines
+	\begin{adjustwidth}{0mm}{-10mm}
+		\centering
+		\par \line(1,0){\linewidth}
+		\insertLines{34}
+		\newpage
+	\end{adjustwidth}
+}
+
+\newcommand{\topNotationPage}[1]{% Page where curiosity are on the top
+	\begin{adjustwidth}{-10mm}{0mm}
+		\centering
+		\fboxrule=2pt
+		\fbox{
+			\par
+			\begin{minipage} [l] [\dimexpr .250\textwidth \relax] [t] {\dimexpr 0.9\textwidth \relax}
+				\textbf{\large Lo sapevi?}\\
+				#1
+			\end{minipage}
+		}
+		\bigskip
+		\par \line(1,0){\linewidth}
+		\insertLines{28}
+	
+		\newpage
+	\end{adjustwidth}
+}
+
+\newcommand{\bottomNotationPage}[1]{% Page where curiosity are on the bottom
+	\begin{adjustwidth}{0mm}{-10mm}
+		\centering
+		\par \line(1,0){\linewidth}
+		\insertLines{26}
+		\\
+		\bigskip
+		\fboxrule=2pt
+		\fbox{
+			\begin{minipage} [l] [\dimexpr .250\textwidth \relax] [t] {\dimexpr 0.9\textwidth \relax}
+				\textbf{\large Lo sapevi?}\\
+				#1
+			\end{minipage}
+		}
+		
+		\newpage
+	\end{adjustwidth}
+}
+
+\pagestyle{empty}
+
+\begin{document}
+	\newgeometry{top=15mm, bottom=15mm}
+	
+		%Notebook cover
+		\begin{center}
+			\vspace*{15mm}
+			\fboxrule=4pt{
+				\fbox{ %                  height                                width
+					\begin{minipage}[l] [\dimexpr 0.150\textwidth \relax] [t] {\dimexpr .460\textwidth \relax}
+						\vspace{5mm}
+						\centering{\large \textbf{Notebook con curiosità sulle opere dei Musei\\}}
+						\bigskip
+						Alice Balestieri \\
+						Francesco Rombaldoni
+					\end{minipage}
+				}
+			}
+		\end{center}
+	
+		\normalPage
+		
+		\topNotationPage{ Ciao ciao ciao}
+		
+		\bottomNotationPage{ Ciao ciao ciao}
+	
+		\newpage
+		\vspace*{\fill}
+		% Print license shield
+		\doclicenseThis
+\end{document}

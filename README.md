@@ -1,4 +1,4 @@
-# Notebook sui Museu di Pesaro
+# Notebook sui Musei di Pesaro
 Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prendere appunti.
 
 ---

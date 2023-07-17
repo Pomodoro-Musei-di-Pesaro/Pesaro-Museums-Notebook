@@ -3,7 +3,7 @@ Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prender
 
 ---
 
-# State
+# Status
 [![Test Compilazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/workflows/LaTeX_Action.yml/badge.svg?branch=main&event=push)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/workflows/LaTeX_Action.yml)
 
 ---

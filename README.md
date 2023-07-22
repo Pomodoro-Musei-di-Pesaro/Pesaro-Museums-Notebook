@@ -8,6 +8,11 @@ Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prender
 
 ---
 
+# In caso di nessuna Release
+- Scarica il [documento](https://nightly.link/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/workflows/LaTeX_Action/main/Quadernino.zip) dimostrativo.
+
+---
+
 # License 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 

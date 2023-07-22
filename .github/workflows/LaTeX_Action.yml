@@ -4,13 +4,17 @@ jobs:
   build_latex:
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Git repository
+      - name: Download file della Repo
         uses: actions/checkout@v3
-        with:
-          sparse-checkout: .
-      - name: Compilazione documenti Notebooks
+      - name: Compilazione del file della Relazione
         uses: xu-cheng/latex-action@v2
         with: # insert here files to compile
-          root_file: "Notebook/*.tex"
-          glob_root_file: true
-      - run: echo "Tutto Okay :)"
+          working_directory: Notebook
+          root_file: Notebook.tex
+      - name: Ridenominazione files
+        run: mv Notebook/Notebook.pdf Notebook/Quadernino.pdf
+      - name: Caricamento della Release temporanea
+        uses: actions/upload-artifact@v3
+        with: 
+          name: Quadernino
+          path: Notebook/Quadernino.pdf

@@ -8,6 +8,23 @@ Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prender
 
 ---
 
+# Analytics
+[![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/traffic/traffic-Pesaro-Museums-Notebook/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/tree/traffic#-Pesaro-Museums-Notebook)
+[![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/traffic/traffic-Pesaro-Museums-Notebook/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/tree/traffic#-Pesaro-Museums-Notebook)
+[![Github all releases](https://img.shields.io/github/downloads/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/total.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/releases/)
+
+---
+
+# Details
+[![GitHub commits](https://badgen.net/github/commits/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/commit/)
+[![GitHub stars](https://badgen.net/github/stars/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/stargazers/)
+[![GitHub issues](https://img.shields.io/github/issues/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub forks](https://badgen.net/github/forks/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/network/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/pull/)
+
+---
+
 # In caso di nessuna Release
 - Scarica il [documento](https://nightly.link/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/workflows/LaTeX_Action/main/Quadernino.zip) dimostrativo.
 

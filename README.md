@@ -1,6 +1,8 @@
 # Notebook sui Musei di Pesaro
 Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prendere appunti.
 
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+
 ---
 
 # Status

@@ -11,8 +11,8 @@ Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prender
 ---
 
 # Analytics
-[![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/traffic/traffic-Pesaro-Museums-Notebook/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/tree/traffic#-Pesaro-Museums-Notebook)
-[![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/traffic/traffic-Pesaro-Museums-Notebook/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/tree/traffic#-Pesaro-Museums-Notebook)
+[![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/traffic/traffic-Pesaro-Museums-Notebook/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook)
+[![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/traffic/traffic-Pesaro-Museums-Notebook/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook)
 [![Github all releases](https://img.shields.io/github/downloads/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/total.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/releases/)
 
 ---

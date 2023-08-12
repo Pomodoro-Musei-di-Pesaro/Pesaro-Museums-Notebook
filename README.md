@@ -6,6 +6,7 @@ Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prender
 ---
 
 # Status
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/15d05b9ecb2544f48329d8a6d7c78a6a)](https://app.codacy.com/gh/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Test Compilazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/workflows/LaTeX_Action.yml/badge.svg?branch=main&event=push)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/workflows/LaTeX_Action.yml)
 
 ---

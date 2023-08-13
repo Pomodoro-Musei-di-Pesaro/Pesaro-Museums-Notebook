@@ -50,4 +50,4 @@ This work is licensed under a
 
 # Authors
 -   Alice Balestieri
--   Francesco Rombaldoni
+-    Francesco Rombaldoni

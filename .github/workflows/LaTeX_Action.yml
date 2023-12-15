@@ -17,7 +17,7 @@ jobs:
       - name: Ridenominazione files
         run: mv Notebook/Notebook.pdf Notebook/Quadernino.pdf
       - name: Caricamento della Release temporanea
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with: 
           name: Quadernino
           path: Notebook/Quadernino.pdf

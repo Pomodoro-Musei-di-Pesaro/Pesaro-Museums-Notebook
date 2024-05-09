@@ -54,7 +54,7 @@ This work is licensed under a
 
 ---
 
-# Contributors
+## Contributors
 <!-- readme: collaborators,contributors -start -->
 <table>
 	<tbody>

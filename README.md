@@ -1,24 +1,28 @@
 # Notebook sui Musei di Pesaro
+
 Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prendere appunti.
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 ---
 
-# Status
+## Status
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/15d05b9ecb2544f48329d8a6d7c78a6a)](https://app.codacy.com/gh/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Test Compilazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/workflows/LaTeX_Action.yml/badge.svg?branch=main&event=push)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/workflows/LaTeX_Action.yml)
 
 ---
 
-# Analytics
+## Analytics
+
 [![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/traffic/traffic-Pesaro-Museums-Notebook/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook)
 [![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/traffic/traffic-Pesaro-Museums-Notebook/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook)
 [![Github all releases](https://img.shields.io/github/downloads/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/total.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/releases/)
 
 ---
 
-# Details
+## Details
+
 [![GitHub commits](https://badgen.net/github/commits/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/commit/)
 [![GitHub stars](https://badgen.net/github/stars/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook?color=blue)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/watchers)
@@ -29,12 +33,14 @@ Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prender
 
 ---
 
-# In caso di nessuna Release
+## In caso di nessuna Release
+
 [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20i%20documenti%20dimostrativi-blue?style=for-the-badge&logo=download&logoColor=white "Documenti")](https://nightly.link/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/workflows/LaTeX_Action/main/Quadernino.zip)
 
 ---
 
-# License 
+## License 
+
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a

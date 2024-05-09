@@ -39,7 +39,7 @@ Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prender
 
 ---
 
-## License 
+## License
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 

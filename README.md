@@ -3,6 +3,8 @@
 Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prendere appunti.
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook)
+[![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
 
 ---
 
@@ -10,6 +12,7 @@ Notebook con delle curiosità sui Musei di Pesaro dove i bambini possono prender
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/15d05b9ecb2544f48329d8a6d7c78a6a)](https://app.codacy.com/gh/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Test Compilazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/workflows/LaTeX_Action.yml/badge.svg?branch=main&event=push)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/workflows/LaTeX_Action.yml)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook)
 
 ---
 

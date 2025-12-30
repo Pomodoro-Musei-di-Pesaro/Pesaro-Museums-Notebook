@@ -1,11 +1,5 @@
 [
   {
-    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/runs/14827495798",
-    "title": "Traffic2badge · Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook@b4860c2 · Gi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/runs/14872716009/workflow",
     "title": "Update README.md · Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook@02244fd ·...",
     "count": 1,
@@ -13,18 +7,6 @@
   },
   {
     "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/runs/14896833751",
-    "title": "Traffic2badge · Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook@02244fd · Gi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/runs/14940180455",
-    "title": "Contributors Readme · Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook@02244f...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/runs/14940614659",
     "title": "Traffic2badge · Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook@02244fd · Gi...",
     "count": 1,
     "uniques": 1
@@ -48,14 +30,20 @@
     "uniques": 1
   },
   {
-    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/runs/15058842336",
+    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/runs/15091173676/job/42419895749",
     "title": "Traffic2badge · Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook@02244fd · Gi...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/runs/15079941662/usage",
+    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/runs/15091173676/usage",
     "title": "Update README.md · Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook@02244fd ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/tree/refs/heads/main/Notebook_cover/Original_images",
+    "title": "Pesaro-Museums-Notebook/Notebook_cover/Original_images at refs/heads/main · P...",
     "count": 1,
     "uniques": 1
   }

@@ -6,6 +6,12 @@
     "uniques": 3
   },
   {
+    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/actions/workflows/LaTeX_Action.yml",
+    "title": "/actions/workflows/LaTeX_Action.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/activity",
     "title": "/activity",
     "count": 1,
@@ -18,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/blob/main/CONTRIBUTING.md",
-    "title": "/blob/main/CONTRIBUTING.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/blob/main/LICENSE",
     "title": "/blob/main/LICENSE",
     "count": 1,
@@ -32,6 +32,12 @@
   {
     "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/blob/main/README.md",
     "title": "/blob/main/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/blob/main/SECURITY.md",
+    "title": "/blob/main/SECURITY.md",
     "count": 1,
     "uniques": 1
   },
